@@ -84,7 +84,8 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Renoa** | A scalable social blogging and networking platform featuring user profiles, blogs, follows, real-time private messaging, and secure authentication | Node.js, Express.js, MongoDB, React, Socket.IO, JWT, AWS (Elastic Beanstalk) | [Live](https://renoa.app) · [Repo](https://github.com/raj14428o/Renoa) |
+| **Renoa** | A production-ready social blogging and networking platform supporting user profiles, content creation, follows, and real-time private messaging | Node.js, Express.js, MongoDB, React, Socket.IO, JWT, AWS (Elastic Beanstalk) | <a href="https://renoa.app"><img src="https://img.shields.io/badge/LIVE-0E75B6?style=flat-square&logo=vercel&logoColor=white"/></a> <a href="https://github.com/raj14428o/Renoa"><img src="https://img.shields.io/badge/REPO-181717?style=flat-square&logo=github&logoColor=white"/></a> |
+
 
 
 
