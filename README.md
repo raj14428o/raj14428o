@@ -1,23 +1,26 @@
 <div align="center">
-<h2>Hi 👋, I'm Raj Kesharwani</h2>
 
-<p>
-CS undergraduate at IIIT Bhagalpur | Problem-solving, systems & development
-</p>
+  <img width="860" height="183" alt="image"
+    src="https://github.com/user-attachments/assets/103c4060-54b7-468b-bebf-b46a6385a640" />
 
-<p>
-  <a href="mailto:rajkesharwani14428@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/raj14428o">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://linkedin.com/in/raj-kesharwani-53b647291">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+  <p>
+    CS undergraduate at IIIT Bhagalpur | Problem-solving, systems & development
+  </p>
+
+  <p>
+    <a href="mailto:rajkesharwani14428@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/raj14428o">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="https://linkedin.com/in/raj-kesharwani-53b647291">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    </a>
+  </p>
 
 </div>
+
 
 ---
 ## 🚀 About Me
